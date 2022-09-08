@@ -1,6 +1,6 @@
 # Book settings
 title: Modeling and Simulation in Python
-author: Allen B. Downey
+author: sinotec2
 
 latex:
   latex_documents:
@@ -10,7 +10,7 @@ execute:
   execute_notebooks: 'off'
 
 repository:
-  url: https://github.com/AllenDowney/ModSimPy
+  url: https://github.com/sinotec2/jb_test
 html:
   use_repository_button: true
 
