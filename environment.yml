@@ -1,4 +1,4 @@
-name: ModSimPy
+name: jb_test
 channels:
   - conda-forge
   - defaults
