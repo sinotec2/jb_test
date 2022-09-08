@@ -9,11 +9,11 @@ def readme():
 
 
 setup(
-    name='modsimpy',
-    version='1.1.2',
-    author='Allen B. Downey',
-    author_email='downey@allendowney.com',
-    packages=['modsim'],
+    name='jb_test',
+    version='0',
+    author='sinotec2',
+    author_email='sinotec2@gmail.com',
+    packages=['jb_test'],
     url='http://github.com/AllenDowney/ModSimPy',
     license='LICENSE',
     description='Python library for the book Modeling and Simulation in Python.',
