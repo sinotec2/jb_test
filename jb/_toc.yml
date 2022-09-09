@@ -1,5 +1,4 @@
-format: jb-article
-root: index
+file: index
 sections:
 - file: preface
 - file: chap01
