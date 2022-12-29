@@ -14,7 +14,7 @@ setup(
     author='sinotec2',
     author_email='sinotec2@gmail.com',
     packages=['jb_test'],
-    url='http://github.com/AllenDowney/ModSimPy',
+    url='http://github.com/sinotec2/jb_test',
     license='LICENSE',
     description='Python library for the book Modeling and Simulation in Python.',
     long_description=readme(),
